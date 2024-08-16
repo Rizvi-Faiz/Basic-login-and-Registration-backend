@@ -141,4 +141,3 @@ For any inquiries or issues, contact me at rizvifaiz1073@gmail.com.
 ---
 
 Thank you for using this backend! If you found it helpful, please consider giving a ⭐ on the repository.
-```
